@@ -14,7 +14,6 @@ opacity: 0.7;
 border: none;
 background-color: #F4F3EE;
 transition: 0.5s;
-cursor: pointer;
 }
 
 .card:hover {
@@ -52,4 +51,5 @@ background-color: white;
 .footer-links a:hover {
   opacity: 1;
 }
+
 
